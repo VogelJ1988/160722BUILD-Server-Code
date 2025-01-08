@@ -1,0 +1,10 @@
+[Server]
+Number=1
+IP=10.1.50.2
+Port=4100
+
+[Char DB]
+IP=14.63.127.133
+DBName=newproject_db
+User=laka
+Password=lakamcity
