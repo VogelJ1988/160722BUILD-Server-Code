@@ -1,0 +1,27 @@
+[Server]
+Number=1
+MAXSIZE=1
+IP=10.1.50.8
+Port=4101
+
+[Messenger Server]
+IP=10.1.50.2
+Port=4003
+
+[Char DB]
+IP=14.63.127.133
+DBName=newproject_db
+User=laka
+Password=lakamcity
+
+[Post DB]
+IP=14.63.127.133
+DBName=newproject_post
+User=laka
+Password=lakamcity
+
+[Data DB]
+IP=14.63.127.133
+DBName=newproject_data
+User=laka
+Password=lakamcity
